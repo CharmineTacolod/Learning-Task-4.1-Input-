@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Interest Calculator App</string>
+    <string name="app_title">Interest Calculator</string>
+    <string name="txt_instruction">To calculate the interest kindly input the value that corresponds to Principal Amount (Php), Interest rate(%) and Time Period (Month).</string>
+    <string name="txt_amount">Enter Principal Amount (Php)</string>
+    <string name="txt_percent">Enter Interest Rate (%)</string>
+    <string name="txt_time">Enter Time Period (Month)</string>
+    <string name="txt_button">Calculate</string>
+    <string name="txt_calculate_result">Computing Result:</string>
+    <string name="txt_close">Close</string>
+</resources>
